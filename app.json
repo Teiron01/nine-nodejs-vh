@@ -1,0 +1,7 @@
+{
+  "name": "nine-nodejs-vh",
+  "description": "A nodejs app for Nine challenge",
+  "repository": "https://git.heroku.com/nine-nodejs-vh.git",
+  "keywords": ["node", "express", "heroku", "Nine"],
+  "image": "heroku/nodejs"
+}
